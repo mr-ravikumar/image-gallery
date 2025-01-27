@@ -23,7 +23,6 @@ This is a \*\*image gallery \*\*created using **HTML and** **CSS**. The web pa
 **Ravi Saini**
 
 - [GitHub](https://github.com/mr-ravikumar)
-- [Twitter](https://twitter.com/mrravikumar0)
 - [LinkedIn](https://linkedin.com/in/mrravikumar)
 - [Portfolio](https://www.mrravikumar.com)
 
